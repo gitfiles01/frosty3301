@@ -6,7 +6,7 @@ download files by clicking on each file name
 
 ##)!
 
-and then selecting the download buttom
+and then selecting the download button
 
 ##)!
 
